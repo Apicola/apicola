@@ -1,0 +1,17 @@
+p1 { 
+  color:red
+ 
+}
+p {
+  color:blue;
+  font-stye:bold;
+    font-size:24px
+    
+}
+body {background-color:#F7DC6F }
+
+.destacado {background-color:#5D6D7E;
+  font-family:"Ariel";
+font-style:italic;
+font-size: 30px}
+
